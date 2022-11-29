@@ -1,5 +1,5 @@
 # Tetris
-AI agent playing Tetris. Written in Python.
+AI agent playing Tetris. Uses utility based huristic function. Written in Python using PyAutoGUI library. 
 
 ## Instructions
 1. Open tetris.com in a web browser.
